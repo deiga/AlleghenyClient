@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "react": "15.3.2",
-    "react-native": "0.39.1",
     "snyk": "^1.85.0"
+    "react-native": "0.56.0"
   },
   "jest": {
     "preset": "jest-react-native"
